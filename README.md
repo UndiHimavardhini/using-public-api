@@ -2,7 +2,7 @@
 
 A modern weather app that auto-detects user location and displays live weather with icons and dynamic backgrounds.
 
-## 🔥 Features
+##  Features
 - Auto location weather
 - City search
 - Weather icons
@@ -13,7 +13,5 @@ A modern weather app that auto-detects user location and displays live weather w
 HTML, CSS, JavaScript
 
 ## 🌐 Live Demo
-👉 Add GitHub Pages link here
 
-## ▶️ Run
-Open index.html in browser
+https://undihimavardhini.github.io/using-public-api/
